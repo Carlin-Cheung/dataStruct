@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1519872871 source:d:\cpp_project\cpp_project\datastruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlist.h"
+	"list.h"
+
+1519823042 d:\cpp_project\cpp_project\datastruct\sqlist.h
+
+1519872662 source:d:\cpp_project\cpp_project\datastruct\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1519869723 d:\cpp_project\cpp_project\datastruct\list.h
+
+1519821243 source:d:\cpp_project\cpp_project\datastruct\sqlist.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlist.h"
+
